@@ -1,14 +1,9 @@
 # IMAGE TO ASCII 
-
-Program ini mengubah gambar menjadi ascii menggunakan bahasa python dan menampilkannya di terminal.
-
-!
+This program converts an image to ascii using python language and displays it in the terminal.
 
 ## How To Use
 
 * **Update the IMG_PATH variable in the script to point to the location of the image you wish to convert (e.g., "my_photo.png").**
-
----
 
 ## Requirements
 
